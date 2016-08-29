@@ -4,14 +4,13 @@
 	"//3": "updating this file will download and update your packages",
 	"name": "my-hyperdev-app",
 	"version": "0.0.1",
-	"description": "What am I about?",
+	"description": "",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
 	"dependencies": {
 		"express": "^5.0.0-alpha.2",
-		"xml2js": "^0.4.17",
 		"body-parser": "^1.15.2"
 	},
 	"engines": {
